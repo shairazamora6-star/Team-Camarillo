@@ -45,19 +45,19 @@
         <button>View More</button>
       </div>
       
-      <div class="place-card">
-  <img src=" " alt="Alona Beach">
-  <h3>Alona Beach – Bohol</h3>
-  <p>Diving, dolphins, and coral reefs in a relaxed setting.</p>
-  <button>View More</button>
-</div>
+    <div class="place-card">
+      <img src=" " alt="Alona Beach">
+      <h3>Alona Beach – Bohol</h3>
+      <p>Diving, dolphins, and coral reefs in a relaxed setting.</p>
+      <button>View More</button>
+    </div>
 
-<div class="place-card">
-  <img src=" " alt="Kota Beach">
-  <h3>Kota Beach – Bantayan Island</h3>
-  <p>Shallow turquoise waters and scenic sandbars.</p>
-  <button>View More</button>
-</div>
+  <div class="place-card">
+    <img src=" " alt="Kota Beach">
+    <h3>Kota Beach – Bantayan Island</h3>
+    <p>Shallow turquoise waters and scenic sandbars.</p>
+    <button>View More</button>
+  </div>
 
 <div class="place-card">
   <img src=" " alt="Malapascua Island">
@@ -116,13 +116,6 @@
 </div>
 
 <div class="place-card">
-  <img src=" " alt="Saud Beach">
-  <h3>Saud Beach – Pagudpud</h3>
-  <Quiet charm and stunning northern sunsets.</p>
-  <button>View More</button>
-</div>
-
-<div class="place-card">
   <img src=" " alt="Salagdoong Beach">
   <h3>Salagdoong Beach – Siquijor</h3>
   <p>Clear waters and intriguing limestone formations.</p>
@@ -133,6 +126,41 @@
   <img src=" " alt="Gota Beach">
   <h3>Gota Beach – Caramoan</h3>
   <p>A haven for divers and snorkelers.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Gumasa Beach">
+  <h3>Gumasa Beach – Saragani</h3>
+  <p>Prestine white sand and crystal-clear water.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Sumilon Island">
+  <h3>Sumilon Island – Cebu</h3>
+  <p>Postcard-perfect sandbar and coral-filled waters.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Antonia Beach">
+  <h3>Antonia Beach – Islas de Gigantes</h3>
+  <p>Features striking rock formations and a pristine white sandbar.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Puka Beach">
+  <h3>Puka Beach – Boracay</h3>
+  <p>A secluded spot with soft white sand.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Cresta de Gallo">
+  <h3Cresta de Gallo - Romblon</h3>
+  <p>A sceluded beach with a scenic view.</p>
   <button>View More</button>
 </div>
 
