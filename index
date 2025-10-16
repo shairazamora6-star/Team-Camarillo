@@ -87,6 +87,55 @@
   <button>View More</button>
 </div>
 
+<div class="place-card">
+  <img src=" " alt="Malcapuya Island">
+  <h3>Malcapuya Island - Coron,Palawan</h3>
+  <p>Powery white sand and crystal-clear waters, perfect for snorkeling and diving.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Paliton Beach">
+  <h3>Paliton Beach – Siquijor Island</h3>
+  <p>Powery white sand and crystal-clear waters.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Dahican Beach">
+  <h3>Dahican Beach – Mati City</h3>
+  <p>A favorite for surfers and nature lovers.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Batiog Beach">
+  <h3>Bitaog Beach – Dinagat Islands</h3>
+  <p>A quiet retreat with turquoise waters.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Saud Beach">
+  <h3>Saud Beach – Pagudpud</h3>
+  <Quiet charm and stunning northern sunsets.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Salagdoong Beach">
+  <h3>Salagdoong Beach – Siquijor</h3>
+  <p>Clear waters and intriguing limestone formations.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Gota Beach">
+  <h3>Gota Beach – Caramoan</h3>
+  <p>A haven for divers and snorkelers.</p>
+  <button>View More</button>
+</div>
+
     </div>
   </main>
 </body>
