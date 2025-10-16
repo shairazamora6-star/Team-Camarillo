@@ -45,25 +45,25 @@
         <button>View More</button>
       </div>
       
-      <div class="place-card">
-  <img src=" " alt="Alona Beach">
-  <h3>Alona Beach – Bohol</h3>
-  <p>Diving, dolphins, and coral reefs in a relaxed setting.</p>
-  <button>View More</button>
-</div>
+    <div class="place-card">
+      <img src=" " alt="Alona Beach">
+      <h3>Alona Beach – Bohol</h3>
+      <p>Diving, dolphins, and coral reefs in a relaxed setting.</p>
+      <button>View More</button>
+    </div>
 
-<div class="place-card">
-  <img src=" " alt="Kota Beach">
-  <h3>Kota Beach – Bantayan Island</h3>
-  <p>Shallow turquoise waters and scenic sandbars.</p>
-  <button>View More</button>
-</div>
+  <div class="place-card">
+    <img src=" " alt="Kota Beach">
+    <h3>Kota Beach – Bantayan Island</h3>
+    <p>Shallow turquoise waters and scenic sandbars.</p>
+    <button>View More</button>
+  </div>
 
-<div class="place-card">
-  <img src=" " alt="Malapascua Island">
-  <h3>Malapascua Island – Cebu</h3>
-  <p>Thresher shark diving and white sand coves.</p>
-  <button>View More</button>
+  <div class="place-card">
+    <img src=" " alt="Malapascua Island">
+    <h3>Malapascua Island – Cebu</h3>
+    <p>Thresher shark diving and white sand coves.</p>
+    <button>View More</button>
 </div>
 
 <div class="place-card">
@@ -84,6 +84,55 @@
   <img src=" " alt="Pink Beach">
   <h3>Pink Beach – Zamboanga</h3>
   <p>Rare pink sand from crushed red coral.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Malcapuya Islanland">
+  <h3>Malcapuya Island - Coron,Palawan</h3>
+  <p>Powdery white sand and crystal-clear waters,perfect for snorkeling and diving9 .</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Paliton Beach">
+  <h3Paliton Baech - Siquijor Island</h3>
+  <p>Powdery white sand and crystal-clear waters.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Bitaog Beach ">
+  <h3>Bitaog Beach - Dinagat Islands</h3>
+  <p>A quiet retreat with turquoise waters.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Pink Beach">
+  <h3>Saud Beach - Pangudpud</h3>
+  <p>Quiet charm and stunning northern sunsets.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Pink Beach">
+  <h3>Salagdoong Beach - Siquijor</h3>
+  <p>Clear waters and intriguing limestone formations.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Pink Beach">
+  <h3>Gota Beach - Caramoan</h3>
+  <p>A haven for divers and snokelers.</p>
+  <button>View More</button>
+</div>
+
+<div class="place-card">
+  <img src=" " alt="Pink Beach">
+  <h3>Dahikan Beach - Mati City</h3>
+  <p>A favorite for surfers and nature lovers.</p>
   <button>View More</button>
 </div>
 
