@@ -1,8 +1,13 @@
 Names:
+
 Riza Ann Amay
+
 James Kyle Camarillo
+
 Mary Chris Quevedo
+
 Althea Sandoy
+
 Shaira Jane Zamora
 
 PHILIPPINES BEACHES
